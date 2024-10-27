@@ -28,3 +28,12 @@
 - JavaScript
 - Bootstrap
 - Git e GitHub
+
+## ✨ Features
+
+- [X] Responsive
+- [X] 
+- [X] 
+
+<br>
+
