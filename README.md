@@ -31,9 +31,8 @@
 
 ## ✨ Features
 
-- [X] Responsive
-- [X] 
-- [X] 
+- [X] Page Integration;
+- [X] Responsive layout;
 
 <br>
 
