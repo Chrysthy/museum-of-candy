@@ -37,3 +37,9 @@
 
 <br>
 
+## 💻 Project
+
+- The website was created to practice HTML, CSS, JavaScript and Bootstrap skills.
+
+<br>
+
