@@ -20,3 +20,11 @@
 </p>
 
 <br>
+
+## 🛠 Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Git e GitHub
