@@ -32,7 +32,12 @@
 ## ✨ Features
 
 - [X] Page Integration;
-- [X] Responsive layout;
+- [X] Responsiveness;
+- [X] Sticky navigation bar;
+- [X] Smooth scrolling to anchor links
+- [X] Responsive text;
+- [X] Responsive buttons;
+
 
 <br>
 
