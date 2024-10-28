@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src=".github/foto-do-projeto.png" alt="Imagem do Projeto"  width="80%">
+  <img src=".github/museum-of-candy-project.PNG" alt="Imagem do Projeto"  width="80%">
 </p>
 
 <br>
