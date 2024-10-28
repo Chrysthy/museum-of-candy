@@ -51,4 +51,5 @@ body {
 
 .navbar .scrolled {
     background: #dec0de;
+    transition: background 500ms;
 }
