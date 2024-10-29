@@ -49,7 +49,7 @@ body {
     font-size: 4rem;
 }
 
-.navbar .scrolled {
+.navbar.scrolled {
     background: #dec0de;
     transition: background 500ms;
 }
